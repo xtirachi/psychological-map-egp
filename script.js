@@ -1,5 +1,5 @@
 
-document.getElementById('questionnaire-az-japan').addEventListener('submit', function(e) {
+document.getElementById('questionnaire-az-egypt').addEventListener('submit', function(e) {
     e.preventDefault();
     const formData = new FormData(e.target);
     const scores = {
